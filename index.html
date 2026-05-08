@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FraudML - Inteligencia en Detección Financiera</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #818cf8;
+            --secondary: #f472b6;
+            --accent: #2dd4bf;
+            --bg: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --text: #f8fafc;
+            --glass: rgba(255, 255, 255, 0.03);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .gradient-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(circle at 0% 0%, rgba(129, 140, 248, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 100% 100%, rgba(244, 114, 182, 0.15) 0%, transparent 50%),
+                #0f172a;
+            z-index: -1;
+        }
+
+        .navbar {
+            padding: 1.5rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--glass);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -1px;
+            display: inline-block;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 6rem 2rem;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 8rem;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 8vw, 5rem);
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.05em;
+            line-height: 1;
+            background: linear-gradient(to right, #fff, #94a3b8);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: #94a3b8;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 3rem;
+            text-align: center;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2.5rem;
+            margin-bottom: 8rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            padding: 3rem;
+            border-radius: 32px;
+            border: 1px solid var(--glass);
+            backdrop-filter: blur(40px);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-12px) scale(1.02);
+            border-color: rgba(129, 140, 248, 0.3);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        .card:hover::before {
+            opacity: 1;
+        }
+
+        .card h3 {
+            font-size: 1.75rem;
+            margin-bottom: 1.25rem;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card p {
+            color: #94a3b8;
+            font-size: 1.1rem;
+        }
+
+        .table-container {
+            background: var(--card-bg);
+            padding: 3rem;
+            border-radius: 32px;
+            border: 1px solid var(--glass);
+            backdrop-filter: blur(40px);
+            margin-bottom: 8rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 2rem;
+        }
+
+        th {
+            padding: 1.5rem;
+            text-align: left;
+            color: var(--primary);
+            font-weight: 600;
+            border-bottom: 1px solid var(--glass);
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+        }
+
+        td {
+            padding: 1.5rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            color: #cbd5e1;
+        }
+
+        .badge {
+            padding: 0.4rem 1rem;
+            border-radius: 100px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            background: rgba(129, 140, 248, 0.1);
+            color: var(--primary);
+            border: 1px solid rgba(129, 140, 248, 0.2);
+        }
+
+        footer {
+            text-align: center;
+            padding: 6rem 2rem;
+            background: rgba(15, 23, 42, 0.5);
+            border-top: 1px solid var(--glass);
+        }
+
+        .footer-logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .container { padding: 4rem 1.5rem; }
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="gradient-bg"></div>
+    
+    <nav class="navbar">
+        <div class="logo">FraudML</div>
+        <div class="badge">V2.0 - CRISP-ML COMPLIANT</div>
+    </nav>
+
+    <div class="container">
+        <section class="hero">
+            <h1>Blindaje Financiero con IA</h1>
+            <p>Implementación de un ecosistema de Machine Learning diseñado para la detección precoz de anomalías y fraudes en el sistema financiero colombiano bajo la metodología CRISP-ML.</p>
+        </section>
+
+        <h2 class="section-title">Contexto del Proyecto</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>🚫 El Problema</h3>
+                <p><strong>Problema:</strong> La saturación de quejas en entidades financieras dificulta la identificación de delitos reales. Nuestro modelo filtra el "ruido" operativo para exponer casos de suplantación y fraude con alta precisión.</p>
+            </div>
+            <div class="card">
+                <h3>💡 Propósito y Objetivo</h3>
+                <p><strong>Propósito:</strong> Automatizar la vigilancia financiera para proteger al usuario final.<br>
+                <strong>Objetivo:</strong> Implementar una Regresión Logística escalable que prediga la probabilidad de fraude basándose en patrones históricos.</p>
+            </div>
+            <div class="card">
+                <h3>🧠 El Modelo</h3>
+                <p><strong>Modelo:</strong> Regresión Logística con regularización, optimizada para manejar desequilibrios de clases y variables categóricas de alta cardinalidad.</p>
+            </div>
+        </div>
+
+        <section class="table-container">
+            <h2 class="section-title" style="text-align: left; margin-bottom: 1rem;">Variables del Ecosistema</h2>
+            <p style="color: #64748b;">Dimensiones analizadas para la generación de la predicción:</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Variable</th>
+                        <th>Descripción</th>
+                        <th>Naturaleza</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>tipo_entidad</td>
+                        <td>Clasificación legal de la institución financiera.</td>
+                        <td>Categórico</td>
+                    </tr>
+                    <tr>
+                        <td>codigo_entidad</td>
+                        <td>Identificador único de la entidad en el sistema.</td>
+                        <td>Numérico/ID</td>
+                    </tr>
+                    <tr>
+                        <td>instancia_recepcion</td>
+                        <td>Canal por el cual se formalizó la queja.</td>
+                        <td>Categórico</td>
+                    </tr>
+                    <tr>
+                        <td>producto</td>
+                        <td>Servicio financiero vinculado a la anomalía detectada.</td>
+                        <td>Categórico</td>
+                    </tr>
+                    <tr>
+                        <td>departamento</td>
+                        <td>Región geográfica donde se originó el reporte.</td>
+                        <td>Geográfico</td>
+                    </tr>
+                    <tr>
+                        <td>cantidad_quejas_recibidas</td>
+                        <td>Métrica de recurrencia de reportes similares.</td>
+                        <td>Numérico</td>
+                    </tr>
+                    <tr>
+                        <td>es_fraude (Target)</td>
+                        <td>Variable objetivo que indica la presencia de fraude.</td>
+                        <td>Binario (0/1)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </div>
+
+    <footer>
+        <span class="footer-logo logo">FraudML</span>
+        <p style="color: #64748b; margin-top: 1rem;">&copy; 2026 Ecosistema de Machine Learning. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>

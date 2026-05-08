@@ -1,0 +1,996 @@
+tipo_entidad,codigo_entidad,instancia_recepcion,producto,departamento,cantidad_quejas_recibidas,es_fraude
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,14,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,4,0
+1,39,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",4,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,281,1
+5,31,Entidad vigilada,Negocios fiduciarios con entidades públicas,ANTIOQUIA,1,0
+1,13,Superintendencia Financiera de Colombia,Cuenta de ahorro,SANTANDER,1,0
+23,9,Entidad vigilada,Cesantías,"BOGOTÁ, D.C.",1,0
+1,43,Entidad vigilada,Cuenta de ahorro,TOLIMA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,2,Superintendencia Financiera de Colombia,Créditos de vivienda,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,BOYACÁ,1,0
+1,56,Entidad vigilada,Tarjetas de crédito,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,CASANARE,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CASANARE,3,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,TOLIMA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,4,1
+1,39,Entidad vigilada,Cuenta de ahorro,QUINDÍO,1,1
+1,39,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAQUETÁ,1,0
+1,42,Superintendencia Financiera de Colombia,Tarjetas de crédito,"BOGOTÁ, D.C.",1,1
+1,7,Entidad vigilada,Créditos comerciales,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,3,0
+1,39,Entidad vigilada,Tarjetas de crédito,ATLÁNTICO,6,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,0
+128,6,Entidad vigilada,Depósitos ordinarios (Capítulo II del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,4,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,26,0
+13,1,Entidad vigilada,Seguro de hogar,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Cuenta corriente,ANTIOQUIA,3,0
+1,30,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,30,Entidad vigilada,Cuenta de ahorro,CÓRDOBA,1,0
+128,6,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",1,0
+13,18,Entidad vigilada,Seguro de cumplimiento,RISARALDA,1,0
+128,3,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",6,1
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,1
+128,3,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,37,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CHOCÓ,1,0
+23,3,Superintendencia Financiera de Colombia,Cesantías,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,103,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CASANARE,1,0
+1,42,Superintendencia Financiera de Colombia,Tarjetas de crédito,ANTIOQUIA,1,1
+1,56,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",6,0
+23,2,Superintendencia Financiera de Colombia,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",2,0
+1,2,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,3,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CESAR,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,13,Superintendencia Financiera de Colombia,Cuenta de ahorro,CUNDINAMARCA,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,BOYACÁ,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",4,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CASANARE,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,4,0
+1,1,Superintendencia Financiera de Colombia,Cuenta de ahorro,META,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",43,1
+1,43,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",35,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",1,0
+1,7,Entidad vigilada,Cuenta corriente,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,5,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,1,0
+1,42,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,1,0
+128,6,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",3,0
+4,128,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",1,0
+1,42,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+5,12,Entidad vigilada,Pensiones obligatorias - Vejez,VALLE DEL CAUCA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,VALLE DEL CAUCA,9,1
+1,1,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,1,0
+1,7,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,2,0
+1,39,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,3,1
+14,11,Entidad vigilada,Seguro de vida individual,RISARALDA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CALDAS,1,0
+1,43,Entidad vigilada,Créditos comerciales,CÓRDOBA,1,0
+14,7,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",1,0
+1,43,Entidad vigilada,Créditos comerciales,NORTE DE SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+14,7,Superintendencia Financiera de Colombia,Seguro de responsabilidad civil,ATLÁNTICO,1,0
+1,39,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",4,0
+1,39,Entidad vigilada,Tarjetas de crédito,ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,2,0
+1,39,Entidad vigilada,Cuenta de ahorro,PUTUMAYO,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,META,1,0
+1,58,Entidad vigilada,Tarjetas de crédito,SANTANDER,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,1
+1,42,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CALDAS,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,TOLIMA,2,1
+1,39,Entidad vigilada,Tarjetas de crédito,BOYACÁ,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,1
+1,7,Entidad vigilada,Cuenta de ahorro,NORTE DE SANTANDER,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,HUILA,2,1
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",3,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CASANARE,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,190,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,TOLIMA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,CALDAS,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+14,11,Entidad vigilada,Seguro de riesgos laborales,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,10,0
+1,39,Entidad vigilada,Cuenta de ahorro,HUILA,3,1
+32,5,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,2,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,HUILA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CHOCÓ,3,1
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,PUTUMAYO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,0
+13,27,Entidad vigilada,Seguro de automóviles,"BOGOTÁ, D.C.",1,0
+13,33,Entidad vigilada,Seguro de automóviles,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",2,0
+1,1,Superintendencia Financiera de Colombia,Creditos de consumo,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,1
+1,30,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,4,0
+1,7,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,1
+128,6,Superintendencia Financiera de Colombia,Otros productos de Fiduciarias,SUCRE,1,0
+1,7,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,9,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ARAUCA,1,1
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,1,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,CUNDINAMARCA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,130,0
+14,23,Superintendencia Financiera de Colombia,Seguro de riesgos laborales,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ARAUCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,37,1
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,21,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,42,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",3,0
+1,39,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",36,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,MAGDALENA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,1,1
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,HUILA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,BOYACÁ,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ARAUCA,1,0
+1,39,Entidad vigilada,Depósitos ordinarios (Capítulo II del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",3,0
+1,43,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),PUTUMAYO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+4,124,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,1,0
+1,30,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta corriente,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NORTE DE SANTANDER,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,NORTE DE SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,43,Entidad vigilada,Créditos comerciales,NORTE DE SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CAUCA,1,1
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,ANTIOQUIA,1,0
+1,42,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,CDT,ANTIOQUIA,12,0
+4,128,Entidad vigilada,Tarjetas de crédito,HUILA,1,1
+1,7,Entidad vigilada,Cuenta corriente,ANTIOQUIA,2,1
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,23,Superintendencia Financiera de Colombia,Creditos de consumo,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,1,0
+13,44,Entidad vigilada,Seguro de accidentes personales,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NORTE DE SANTANDER,1,1
+1,2,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",1,0
+4,128,Superintendencia Financiera de Colombia,Tarjetas de crédito,NORTE DE SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,0
+14,11,Entidad vigilada,Seguro de vida grupo,VALLE DEL CAUCA,1,0
+13,33,Entidad vigilada,Seguro de automóviles,"BOGOTÁ, D.C.",1,0
+127,1,Superintendencia Financiera de Colombia,Planilla integrada de liquidación de aportes,SANTANDER,1,0
+1,1,Superintendencia Financiera de Colombia,Cuenta de ahorro,ATLÁNTICO,1,0
+128,6,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",4,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,1
+1,7,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,56,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",3,1
+1,43,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+14,11,Entidad vigilada,Seguro de salud,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,13,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CESAR,1,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,BOYACÁ,1,0
+13,5,Entidad vigilada,Seguro de accidentes personales,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,1,0
+1,7,Entidad vigilada,Creditos de consumo,NORTE DE SANTANDER,1,0
+5,12,Otra (remisión por competencia),Fiducia de administración,"BOGOTÁ, D.C.",1,0
+14,11,Entidad vigilada,Seguro de vida grupo,GUAVIARE,1,0
+1,42,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,5,0
+1,56,Entidad vigilada,Tarjetas de crédito,META,1,1
+1,39,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,3,1
+1,7,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,1,1
+4,128,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,BOYACÁ,1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,9,0
+1,42,Entidad vigilada,Tarjetas de crédito,MAGDALENA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,CESAR,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,1,0
+14,11,Entidad vigilada,Seguro de salud,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,1
+1,43,Entidad vigilada,Créditos comerciales,CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+5,12,Otra (remisión por competencia),Fiducia de administración,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,9,0
+128,6,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,1,1
+1,56,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,49,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,1
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+14,1,Entidad vigilada,Seguro de salud,NORTE DE SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,9,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,1
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,BOLÍVAR,1,0
+14,11,Entidad vigilada,Seguro de salud,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CALDAS,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+128,3,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,GUAVIARE,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,114,0
+1,7,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,0
+1,49,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,3,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CALDAS,1,0
+4,128,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",1,1
+14,11,Entidad vigilada,Seguro de riesgos laborales,"BOGOTÁ, D.C.",1,0
+1,2,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",1,0
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,3,1
+13,18,Entidad vigilada,Seguro de automóviles,MAGDALENA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,13,0
+128,6,Entidad vigilada,Depósitos ordinarios (Capítulo II del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NORTE DE SANTANDER,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,ATLÁNTICO,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),QUINDÍO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,1,0
+1,30,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,CALDAS,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,1,0
+13,18,Entidad vigilada,Seguro de salud,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,1,0
+1,7,Entidad vigilada,CDT,ANTIOQUIA,1,0
+1,1,Superintendencia Financiera de Colombia,Créditos comerciales,"BOGOTÁ, D.C.",1,1
+13,1,Entidad vigilada,Seguro de automóviles,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,1
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CUNDINAMARCA,1,0
+1,56,Entidad vigilada,Tarjetas de crédito,NORTE DE SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,17,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,33,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",39,1
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CÓRDOBA,1,0
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,META,1,1
+1,39,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,RISARALDA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,TOLIMA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,QUINDÍO,1,1
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,CÓRDOBA,1,0
+1,42,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",3,0
+128,3,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",4,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,6,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,1,0
+1,7,Entidad vigilada,Cuenta corriente,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,7,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,52,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,2,1
+1,7,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,4,0
+5,20,Entidad vigilada,Fiducia de administración,"BOGOTÁ, D.C.",2,0
+1,7,Superintendencia Financiera de Colombia,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,56,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,0
+23,10,Entidad vigilada,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Tarjetas de crédito,BOLÍVAR,2,1
+14,33,Entidad vigilada,Seguro de riesgos laborales,"BOGOTÁ, D.C.",1,0
+1,30,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",9,0
+1,7,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,1,0
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),QUINDÍO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,1,0
+13,44,Entidad vigilada,Seguro de sustracción,"BOGOTÁ, D.C.",1,0
+13,24,Superintendencia Financiera de Colombia,Seguro Obligatorio de Accidentes de Tránsito (SOAT),META,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",7,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,ANTIOQUIA,1,0
+128,6,Entidad vigilada,Depósitos ordinarios (Capítulo II del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,56,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,BOYACÁ,1,1
+13,1,Entidad vigilada,Seguro de automóviles,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CALDAS,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,PUTUMAYO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Superintendencia Financiera de Colombia,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,30,Entidad vigilada,Cuenta de ahorro,RISARALDA,1,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,1,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,3,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,39,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,1
+1,43,Entidad vigilada,Créditos comerciales,PUTUMAYO,1,0
+1,30,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,11,0
+14,23,Superintendencia Financiera de Colombia,Seguro de riesgos laborales,BOLÍVAR,1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NORTE DE SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,5,0
+1,43,Entidad vigilada,Cuenta de ahorro,MAGDALENA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VICHADA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,4,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,6,0
+1,39,Entidad vigilada,Tarjetas de crédito,BOYACÁ,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CASANARE,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),RISARALDA,3,1
+14,7,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,1
+1,39,Entidad vigilada,Cuenta de ahorro,LA GUAJIRA,1,0
+1,7,Entidad vigilada,Créditos comerciales,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Cuenta corriente,ANTIOQUIA,5,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,0
+1,43,Entidad vigilada,Créditos comerciales,BOLÍVAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,1,0
+1,7,Entidad vigilada,Cuenta AFC,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Depósitos ordinarios (Capítulo II del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,3,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,6,0
+1,39,Entidad vigilada,Créditos comerciales,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Tarjetas de crédito,RISARALDA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,5,0
+1,39,Entidad vigilada,Tarjetas de crédito,CAUCA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,2,0
+1,39,Entidad vigilada,Cuenta de ahorro,MAGDALENA,3,1
+127,2,Entidad vigilada,Planilla integrada de liquidación de aportes,"BOGOTÁ, D.C.",1,0
+23,10,Superintendencia Financiera de Colombia,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,4,1
+1,6,Entidad vigilada,Cuenta de ahorro,BOYACÁ,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,SANTANDER,3,1
+1,1,Superintendencia Financiera de Colombia,Creditos de consumo,VALLE DEL CAUCA,1,1
+1,42,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,2,0
+1,1,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",2,0
+1,49,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",3,1
+1,39,Entidad vigilada,Leasing habitacional,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,62,0
+1,2,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,1,1
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,136,0
+1,56,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+22,8,Entidad vigilada,Cesantías,SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",3,0
+1,2,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,2,0
+1,39,Entidad vigilada,Tarjetas de crédito,CESAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,2,1
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CAUCA,1,0
+1,43,Entidad vigilada,Créditos comerciales,PUTUMAYO,1,0
+1,7,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,ANTIOQUIA,17,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,1,0
+5,31,Entidad vigilada,Fiducia de administración,ANTIOQUIA,1,0
+1,1,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",5,1
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Cuenta AFC,ANTIOQUIA,1,0
+1,2,Entidad vigilada,Cuenta corriente,"BOGOTÁ, D.C.",1,1
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CASANARE,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CALDAS,1,1
+1,39,Entidad vigilada,Depósitos de bajo monto inclusivos (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",4,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,TOLIMA,1,0
+1,42,Entidad vigilada,Tarjetas de crédito,VALLE DEL CAUCA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,RISARALDA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),RISARALDA,1,0
+23,10,Entidad vigilada,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,9,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,TOLIMA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,TOLIMA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,1,1
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,ATLÁNTICO,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+128,3,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,1,0
+13,17,Superintendencia Financiera de Colombia,Seguro Obligatorio de Accidentes de Tránsito (SOAT),ANTIOQUIA,1,0
+1,42,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+5,12,Otra (remisión por competencia),Pensiones obligatorias - Vejez,ANTIOQUIA,1,0
+1,1,Superintendencia Financiera de Colombia,Tarjetas de crédito,ANTIOQUIA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,2,0
+1,43,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,3,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CHOCÓ,1,0
+1,56,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",4,0
+1,7,Entidad vigilada,Cuenta corriente,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,1,1
+1,56,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,SANTANDER,1,0
+1,7,Entidad vigilada,Créditos de consumo de bajo monto,HUILA,1,0
+1,42,Superintendencia Financiera de Colombia,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,8,0
+1,7,Superintendencia Financiera de Colombia,Tarjetas de crédito,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,0
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,ANTIOQUIA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,2,1
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,17,0
+1,39,Entidad vigilada,Tarjetas de crédito,HUILA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,4,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,4,0
+1,39,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",3,0
+22,8,Entidad vigilada,Créditos de vivienda,CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,301,0
+1,2,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",43,1
+1,30,Entidad vigilada,Cuenta de ahorro,CASANARE,1,0
+1,7,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,2,0
+1,39,Entidad vigilada,Depósitos de bajo monto inclusivos (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,HUILA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,1
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,BOLÍVAR,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,RISARALDA,1,1
+1,39,Entidad vigilada,Cuenta corriente,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",29,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,2,1
+1,1,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,65,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",1,1
+14,7,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),RISARALDA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,1,0
+128,6,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",3,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NORTE DE SANTANDER,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,1,0
+1,7,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,CUNDINAMARCA,1,0
+1,6,Superintendencia Financiera de Colombia,Tarjetas de crédito,"BOGOTÁ, D.C.",1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,ATLÁNTICO,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,1,Superintendencia Financiera de Colombia,Tarjetas de crédito,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,3,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),RISARALDA,1,0
+1,39,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",3,1
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,1,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,BOLÍVAR,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,8,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,2,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,LA GUAJIRA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,5,0
+1,1,Superintendencia Financiera de Colombia,Creditos de consumo,VALLE DEL CAUCA,1,0
+4,124,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),MAGDALENA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,1
+13,18,Entidad vigilada,Seguro de responsabilidad civil,BOLÍVAR,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,META,4,1
+1,39,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,NARIÑO,1,1
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,9,0
+1,7,Entidad vigilada,Cuenta de ahorro,SUCRE,1,0
+1,7,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,1,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,TOLIMA,1,0
+1,56,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,56,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",7,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,2,1
+13,44,Entidad vigilada,Seguro de sustracción,"BOGOTÁ, D.C.",1,0
+1,43,Entidad vigilada,Cuenta de ahorro,HUILA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",5,0
+1,39,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ATLÁNTICO,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,1
+13,18,Entidad vigilada,Seguro Obligatorio de Accidentes de Tránsito (SOAT),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,NORTE DE SANTANDER,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,QUINDÍO,1,1
+128,6,Entidad vigilada,Depósitos ordinarios (Capítulo II del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",5,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,BOYACÁ,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,0
+1,39,Entidad vigilada,Créditos comerciales,"BOGOTÁ, D.C.",1,0
+14,11,Entidad vigilada,Seguro de vida individual,ANTIOQUIA,2,0
+1,39,Entidad vigilada,Cuenta corriente,CALDAS,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,3,1
+1,39,Entidad vigilada,Créditos de vivienda,CÓRDOBA,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,CESAR,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,MAGDALENA,1,1
+1,39,Defensor del consumidor financiero,Otros productos de Establecimientos de Crédito y SEDPE,SANTANDER,1,0
+22,8,Entidad vigilada,Créditos de vivienda,TOLIMA,3,0
+22,8,Entidad vigilada,Créditos de vivienda,VALLE DEL CAUCA,2,0
+1,39,Defensor del consumidor financiero,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,2,0
+1,39,Entidad vigilada,Tarjetas de crédito,CESAR,1,0
+14,11,Entidad vigilada,Seguro de salud,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CALDAS,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,CAQUETÁ,1,0
+14,11,Entidad vigilada,Seguro de riesgos laborales,TOLIMA,5,0
+1,43,Entidad vigilada,Cuenta de ahorro,HUILA,3,0
+22,8,Entidad vigilada,Cesantías,GUAVIARE,2,0
+1,39,Entidad vigilada,Cuenta de ahorro,RISARALDA,4,1
+1,39,Entidad vigilada,Cuenta de ahorro,CÓRDOBA,3,0
+14,11,Entidad vigilada,Seguro de salud,ANTIOQUIA,12,0
+14,11,Entidad vigilada,Seguro de salud,BOLÍVAR,1,0
+1,43,Entidad vigilada,Tarjetas de crédito,CALDAS,1,0
+1,49,Superintendencia Financiera de Colombia,Cuenta corriente,"BOGOTÁ, D.C.",2,1
+1,23,Defensor del consumidor financiero,Leasing operativo,"BOGOTÁ, D.C.",4,0
+1,49,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",21,0
+1,39,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+14,11,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",7,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,54,0
+1,43,Entidad vigilada,Créditos comerciales,CASANARE,1,0
+1,49,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",2,0
+1,39,Defensor del consumidor financiero,Otros productos de Establecimientos de Crédito y SEDPE,CAQUETÁ,2,1
+13,5,Entidad vigilada,Seguro de accidentes personales,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,QUINDÍO,96,1
+4,128,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,CÓRDOBA,1,0
+127,5,Entidad vigilada,Planilla integrada de liquidación de aportes,ANTIOQUIA,4,0
+1,56,Entidad vigilada,Tarjetas de crédito,SANTANDER,2,0
+13,27,Superintendencia Financiera de Colombia,Otros productos de seguros,"BOGOTÁ, D.C.",1,0
+1,60,Defensor del consumidor financiero,Microcrédito,ATLÁNTICO,1,0
+13,33,Defensor del consumidor financiero,Seguro de automóviles,"BOGOTÁ, D.C.",2,0
+14,4,Entidad vigilada,Seguro de riesgos laborales,CALDAS,2,0
+13,6,Superintendencia Financiera de Colombia,Seguro colectivo de vida,VALLE DEL CAUCA,1,1
+4,128,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,0
+14,4,Entidad vigilada,Seguro educativo,"BOGOTÁ, D.C.",2,0
+1,43,Entidad vigilada,Tarjetas de crédito,SANTANDER,1,0
+1,60,Entidad vigilada,Microcrédito,VALLE DEL CAUCA,1,0
+14,4,Entidad vigilada,Seguro de salud,SANTANDER,2,0
+1,53,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,0
+1,62,Superintendencia Financiera de Colombia,Microcrédito,"BOGOTÁ, D.C.",2,0
+127,5,Entidad vigilada,Planilla integrada de liquidación de aportes,NORTE DE SANTANDER,1,0
+4,117,Entidad vigilada,Créditos de vivienda,VALLE DEL CAUCA,1,0
+4,122,Entidad vigilada,Creditos de consumo,VALLE DEL CAUCA,1,0
+14,16,Superintendencia Financiera de Colombia,Seguro de vida grupo,ARAUCA,2,0
+1,23,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",2,0
+13,5,Entidad vigilada,Seguro de accidentes personales,"BOGOTÁ, D.C.",5,0
+13,24,Otra (remisión por competencia),Seguro Obligatorio de Accidentes de Tránsito (SOAT),VALLE DEL CAUCA,1,0
+1,67,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",5,0
+1,63,Entidad vigilada,Tarjetas de crédito,ATLÁNTICO,1,0
+13,1,Entidad vigilada,Seguro de hogar,ANTIOQUIA,1,0
+14,7,Entidad vigilada,Seguro Obligatorio de Accidentes de Tránsito (SOAT),"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,4,0
+14,11,Entidad vigilada,Seguro de salud,CUNDINAMARCA,1,0
+5,38,Defensor del consumidor financiero,Fiducia de administración,"BOGOTÁ, D.C.",1,0
+5,38,Entidad vigilada,Fiducia inmobiliaria,BOLÍVAR,1,0
+23,3,Superintendencia Financiera de Colombia,Otros Productos de Pensiones y Cesantías,ATLÁNTICO,1,0
+23,10,Entidad vigilada,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",3,0
+1,68,Entidad vigilada,Microcrédito,META,1,0
+23,3,Defensor del consumidor financiero,Pensiones obligatorias - Invalidez,"BOGOTÁ, D.C.",4,0
+14,7,Defensor del consumidor financiero,Seguro de vida grupo,"BOGOTÁ, D.C.",3,0
+13,18,Entidad vigilada,Seguro de cumplimiento,ANTIOQUIA,1,0
+23,10,Entidad vigilada,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",2,0
+4,128,Superintendencia Financiera de Colombia,Tarjetas de crédito,"BOGOTÁ, D.C.",3,0
+1,65,Superintendencia Financiera de Colombia,Creditos de consumo,"BOGOTÁ, D.C.",2,0
+4,117,Entidad vigilada,Créditos de vivienda,"BOGOTÁ, D.C.",3,0
+1,67,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",16,0
+5,12,Otra (remisión por competencia),Fiducia de administración,CALDAS,1,0
+1,7,Superintendencia Financiera de Colombia,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",3,0
+4,124,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",6,1
+13,6,Entidad vigilada,Seguro de automóviles,"BOGOTÁ, D.C.",4,0
+14,25,Entidad vigilada,Seguro de riesgos laborales,"BOGOTÁ, D.C.",57,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ARAUCA,7,0
+23,10,Defensor del consumidor financiero,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",3,0
+1,1,Defensor del consumidor financiero,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,3,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,6,0
+1,7,Otra (remisión por competencia),Cuenta de ahorro,ANTIOQUIA,2,0
+1,7,Superintendencia Financiera de Colombia,Tarjetas de crédito,ANTIOQUIA,1,1
+13,6,Entidad vigilada,Seguro Obligatorio de Accidentes de Tránsito (SOAT),VALLE DEL CAUCA,2,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,BOYACÁ,1,0
+1,7,Superintendencia Financiera de Colombia,CDT,VALLE DEL CAUCA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,SUCRE,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CAUCA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CHOCÓ,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,3,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,8,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CESAR,4,0
+1,7,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",10,0
+1,7,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,3,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),PUTUMAYO,5,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),RISARALDA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,SANTANDER,18,0
+1,7,Entidad vigilada,Cuenta de ahorro,ATLÁNTICO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,34,1
+1,13,Entidad vigilada,Cuenta de ahorro,RISARALDA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,16,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,14,1
+1,13,Entidad vigilada,Cuenta de ahorro,HUILA,1,0
+1,13,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,28,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ARAUCA,1,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,CUNDINAMARCA,2,1
+4,118,Defensor del consumidor financiero,Microcrédito,SUCRE,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,NORTE DE SANTANDER,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,60,0
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,BOYACÁ,1,0
+23,2,Defensor del consumidor financiero,Pensiones obligatorias - Vejez,NORTE DE SANTANDER,1,0
+23,2,Defensor del consumidor financiero,Pensiones obligatorias - Invalidez,ANTIOQUIA,1,0
+1,42,Superintendencia Financiera de Colombia,Tarjetas de crédito,"BOGOTÁ, D.C.",2,0
+1,13,Entidad vigilada,Creditos de consumo,MAGDALENA,1,0
+1,13,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,4,1
+1,13,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,1,0
+25,14,Superintendencia Financiera de Colombia,Pensiones obligatorias - Vejez,NORTE DE SANTANDER,1,0
+23,2,Entidad vigilada,Otros Productos de Pensiones y Cesantías,ANTIOQUIA,2,0
+1,13,Entidad vigilada,Cuenta de ahorro,SANTANDER,5,0
+1,7,Entidad vigilada,Cuenta de ahorro,BOLÍVAR,2,0
+1,13,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+23,2,Entidad vigilada,Pensiones obligatorias - Vejez,ANTIOQUIA,1,0
+1,13,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,ANTIOQUIA,1,0
+1,13,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,2,0
+1,13,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,1,0
+1,13,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,15,0
+1,6,Entidad vigilada,Tarjetas de crédito,SANTANDER,3,1
+1,13,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,0
+1,13,Superintendencia Financiera de Colombia,Creditos de consumo,VALLE DEL CAUCA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,132,0
+25,14,Defensor del consumidor financiero,Pensiones obligatorias - Sobrevivencia,SANTANDER,1,0
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,CHOCÓ,1,0
+1,42,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,0
+1,54,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,3,0
+1,13,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,1,0
+1,42,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",13,1
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,SANTANDER,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),HUILA,2,0
+1,30,Defensor del consumidor financiero,Créditos de vivienda,"BOGOTÁ, D.C.",5,0
+1,54,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",2,0
+1,39,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,1,0
+13,44,Entidad vigilada,Seguro de accidentes personales,ANTIOQUIA,2,0
+1,54,Entidad vigilada,Créditos comerciales,ANTIOQUIA,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,TOLIMA,1,0
+13,44,Entidad vigilada,Seguro de vida grupo,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,NORTE DE SANTANDER,1,1
+1,39,Superintendencia Financiera de Colombia,Créditos comerciales,BOYACÁ,1,0
+1,56,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,MAGDALENA,1,0
+22,8,Entidad vigilada,Créditos de vivienda,SANTANDER,1,0
+1,43,Superintendencia Financiera de Colombia,Cuenta de ahorro,NORTE DE SANTANDER,1,1
+1,39,Entidad vigilada,Tarjetas de crédito,SANTANDER,1,0
+1,30,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",3,0
+1,39,Entidad vigilada,Cuenta de ahorro,ARAUCA,10,1
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,RISARALDA,4,0
+14,11,Entidad vigilada,Seguro de vida individual,"BOGOTÁ, D.C.",2,0
+1,43,Entidad vigilada,Créditos comerciales,NARIÑO,1,0
+1,43,Superintendencia Financiera de Colombia,Créditos comerciales,"BOGOTÁ, D.C.",5,0
+22,8,Entidad vigilada,Cesantías,SUCRE,1,0
+1,43,Entidad vigilada,Créditos comerciales,ANTIOQUIA,1,0
+14,11,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",2,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",55,1
+1,39,Superintendencia Financiera de Colombia,Cuenta de ahorro,QUINDÍO,3,1
+14,11,Entidad vigilada,Seguro de riesgos laborales,RISARALDA,2,0
+1,23,Superintendencia Financiera de Colombia,Leasing habitacional,"BOGOTÁ, D.C.",1,0
+1,39,Entidad vigilada,Cuenta de ahorro,CALDAS,2,1
+1,23,Superintendencia Financiera de Colombia,Tarjetas de crédito,ANTIOQUIA,1,0
+1,43,Entidad vigilada,Créditos comerciales,BOYACÁ,1,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,TOLIMA,1,0
+1,30,Superintendencia Financiera de Colombia,Microcrédito,CUNDINAMARCA,1,0
+23,10,Superintendencia Financiera de Colombia,Pensiones obligatorias - Vejez,"BOGOTÁ, D.C.",1,0
+1,12,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",3,0
+22,8,Entidad vigilada,Créditos de vivienda,NORTE DE SANTANDER,14,0
+13,24,Otra (remisión por competencia),Seguro Obligatorio de Accidentes de Tránsito (SOAT),NORTE DE SANTANDER,1,0
+1,67,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+14,26,Entidad vigilada,Seguro de accidentes personales,NORTE DE SANTANDER,2,0
+14,11,Entidad vigilada,Seguro de salud,VALLE DEL CAUCA,16,0
+1,13,Superintendencia Financiera de Colombia,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+4,122,Entidad vigilada,Creditos de consumo,VALLE DEL CAUCA,2,0
+4,128,Entidad vigilada,Tarjetas de crédito,VALLE DEL CAUCA,1,0
+14,17,Entidad vigilada,Seguro de vida grupo,ANTIOQUIA,1,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,CAQUETÁ,1,0
+1,12,Superintendencia Financiera de Colombia,Creditos de consumo,VALLE DEL CAUCA,1,0
+13,33,Entidad vigilada,Seguro de vida grupo,NARIÑO,1,0
+1,39,Entidad vigilada,Tarjetas de crédito,SANTANDER,137,1
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,VALLE DEL CAUCA,1,0
+5,31,Defensor del consumidor financiero,Fiducia de administración,ANTIOQUIA,1,0
+1,52,Entidad vigilada,Microcrédito,"BOGOTÁ, D.C.",6,0
+13,33,Entidad vigilada,Seguro de automóviles,"BOGOTÁ, D.C.",1,0
+13,33,Entidad vigilada,Seguro de hogar,CUNDINAMARCA,1,0
+5,59,Entidad vigilada,Fiducia inmobiliaria,"BOGOTÁ, D.C.",1,0
+1,1,Superintendencia Financiera de Colombia,Cuenta de ahorro,BOLÍVAR,2,0
+13,29,Entidad vigilada,Seguro Obligatorio de Accidentes de Tránsito (SOAT),CESAR,1,0
+13,18,Otra (remisión por competencia),Seguro de vida individual,ANTIOQUIA,1,0
+13,6,Entidad vigilada,Otros productos de seguros,SANTANDER,1,0
+13,22,Defensor del consumidor financiero,Seguro de automóviles,"BOGOTÁ, D.C.",1,0
+14,33,Entidad vigilada,Seguro de riesgos laborales,ATLÁNTICO,2,0
+13,27,Entidad vigilada,Seguro Obligatorio de Accidentes de Tránsito (SOAT),"BOGOTÁ, D.C.",2,0
+1,53,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",2,0
+127,5,Entidad vigilada,Planilla integrada de liquidación de aportes,CÓRDOBA,1,0
+4,124,Entidad vigilada,Creditos de consumo,VALLE DEL CAUCA,1,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,CUNDINAMARCA,1,0
+15,2,Superintendencia Financiera de Colombia,Seguro de vida grupo,CESAR,1,0
+5,33,Superintendencia Financiera de Colombia,Fiducia de administración,ANTIOQUIA,1,0
+1,55,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+13,22,Entidad vigilada,Seguro de hogar,"BOGOTÁ, D.C.",2,0
+4,117,Entidad vigilada,Créditos de vivienda,SANTANDER,1,0
+1,67,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",3,0
+13,27,Entidad vigilada,Seguro de desempleo,SANTANDER,1,0
+1,63,Defensor del consumidor financiero,Tarjetas de crédito,META,1,0
+14,1,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",1,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,VALLE DEL CAUCA,1,0
+1,12,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+14,32,Entidad vigilada,Seguro de accidentes personales,TOLIMA,1,0
+32,2,Entidad vigilada,Microcrédito,"BOGOTÁ, D.C.",1,0
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,NARIÑO,1,0
+1,1,Superintendencia Financiera de Colombia,Cuenta de ahorro,CÓRDOBA,1,1
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,0
+22,8,Superintendencia Financiera de Colombia,Créditos de vivienda,MAGDALENA,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,8,1
+14,11,Entidad vigilada,Seguro de riesgos laborales,NORTE DE SANTANDER,18,0
+1,43,Otra (remisión por competencia),Cuenta de ahorro,LA GUAJIRA,1,0
+1,49,Superintendencia Financiera de Colombia,Tarjetas de crédito,VALLE DEL CAUCA,1,0
+1,43,Entidad vigilada,Títulos de Ahorro Educativo (TAE),BOLÍVAR,1,0
+14,11,Entidad vigilada,Seguro de salud,ANTIOQUIA,3,0
+1,43,Superintendencia Financiera de Colombia,Cuenta de ahorro,NORTE DE SANTANDER,4,1
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,9,0
+14,11,Entidad vigilada,Seguro de vida individual,HUILA,1,0
+1,49,Superintendencia Financiera de Colombia,Creditos de consumo,ANTIOQUIA,1,0
+1,23,Defensor del consumidor financiero,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",3,0
+1,43,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,CUNDINAMARCA,1,0
+22,8,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,2,0
+22,8,Entidad vigilada,Créditos de vivienda,BOYACÁ,1,0
+128,3,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,1,0
+1,39,Entidad vigilada,Cuenta de ahorro,RISARALDA,12,1
+1,39,Defensor del consumidor financiero,Tarjetas de crédito,BOYACÁ,1,1
+1,43,Entidad vigilada,Títulos de Ahorro Educativo (TAE),QUINDÍO,1,0
+1,43,Entidad vigilada,Cuenta de ahorro,SANTANDER,1,1
+1,43,Entidad vigilada,Títulos de Ahorro Educativo (TAE),CÓRDOBA,1,0
+1,49,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",3,0
+128,3,Superintendencia Financiera de Colombia,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",6,1
+1,30,Entidad vigilada,Cuenta de ahorro,"BOGOTÁ, D.C.",163,0
+1,30,Defensor del consumidor financiero,Cuenta de ahorro,"BOGOTÁ, D.C.",12,0
+13,44,Entidad vigilada,Seguro de accidentes personales,ARAUCA,1,0
+1,39,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,BOLÍVAR,1,1
+1,54,Entidad vigilada,Cuenta de ahorro,CAUCA,3,0
+13,44,Entidad vigilada,Seguro de accidentes personales,NORTE DE SANTANDER,1,0
+1,54,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",3,0
+1,54,Entidad vigilada,Créditos comerciales,"BOGOTÁ, D.C.",1,0
+1,54,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",3,0
+1,54,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,SUCRE,1,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,648,0
+1,42,Entidad vigilada,Tarjetas de crédito,"BOGOTÁ, D.C.",223,0
+1,13,Defensor del consumidor financiero,Cuenta de ahorro,"BOGOTÁ, D.C.",54,0
+1,2,Superintendencia Financiera de Colombia,Tarjetas de crédito,MAGDALENA,1,1
+23,2,Entidad vigilada,Pensiones obligatorias - Invalidez,ANTIOQUIA,1,0
+1,13,Defensor del consumidor financiero,Cuenta de ahorro,"BOGOTÁ, D.C.",18,0
+1,42,Entidad vigilada,Creditos de consumo,"BOGOTÁ, D.C.",12,0
+1,13,Superintendencia Financiera de Colombia,Cuenta de ahorro,SANTANDER,2,0
+1,2,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",35,1
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",38,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SANTANDER,190,1
+1,42,Superintendencia Financiera de Colombia,Tarjetas de crédito,"BOGOTÁ, D.C.",34,0
+1,7,Entidad vigilada,Cuenta de ahorro,NORTE DE SANTANDER,23,1
+23,2,Superintendencia Financiera de Colombia,Pensiones obligatorias - Vejez,ANTIOQUIA,3,0
+1,13,Entidad vigilada,Tarjetas de crédito,TOLIMA,2,0
+1,42,Entidad vigilada,Tarjetas de crédito,TOLIMA,1,0
+1,13,Superintendencia Financiera de Colombia,Cuenta corriente,"BOGOTÁ, D.C.",2,0
+1,7,Entidad vigilada,Leasing habitacional,ANTIOQUIA,82,0
+1,6,Superintendencia Financiera de Colombia,Tarjetas de crédito,SANTANDER,1,0
+1,13,Entidad vigilada,Tarjetas de crédito,VALLE DEL CAUCA,4,0
+1,30,Superintendencia Financiera de Colombia,Cuenta de ahorro,"BOGOTÁ, D.C.",1,0
+1,30,Defensor del consumidor financiero,Tarjetas de crédito,"BOGOTÁ, D.C.",2,0
+1,6,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,RISARALDA,1,0
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,ATLÁNTICO,8,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,2,0
+1,13,Entidad vigilada,Creditos de consumo,BOYACÁ,2,0
+1,13,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,1,1
+1,42,Entidad vigilada,Tarjetas de crédito,CUNDINAMARCA,1,0
+1,13,Superintendencia Financiera de Colombia,Tarjetas de crédito,BOYACÁ,1,1
+25,14,Entidad vigilada,Pensiones obligatorias - Sobrevivencia,CÓRDOBA,1,0
+1,30,Defensor del consumidor financiero,CDT,"BOGOTÁ, D.C.",5,0
+1,42,Superintendencia Financiera de Colombia,Tarjetas de crédito,SANTANDER,3,0
+25,14,Entidad vigilada,Pensiones obligatorias - Vejez,TOLIMA,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NORTE DE SANTANDER,9,1
+1,13,Entidad vigilada,Cuenta de ahorro,MAGDALENA,1,0
+1,13,Entidad vigilada,Tarjetas de crédito,MAGDALENA,1,0
+1,42,Entidad vigilada,Tarjetas de crédito,ANTIOQUIA,2,0
+23,2,Entidad vigilada,Pensiones obligatorias - Invalidez,RISARALDA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),"BOGOTÁ, D.C.",7,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,5,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ARAUCA,1,0
+1,7,Superintendencia Financiera de Colombia,Cuenta de ahorro,CÓRDOBA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),QUINDÍO,3,0
+1,7,Entidad vigilada,Cuenta de ahorro,CHOCÓ,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,TOLIMA,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),PUTUMAYO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,2,0
+1,7,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,ANTIOQUIA,24,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),PUTUMAYO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),SUCRE,3,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOLÍVAR,5,1
+1,7,Entidad vigilada,Cuenta de ahorro,MAGDALENA,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,16,0
+1,7,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,9,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),TOLIMA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),NARIÑO,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CASANARE,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),BOYACÁ,2,1
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),LA GUAJIRA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CHOCÓ,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),GUAVIARE,2,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),META,1,0
+1,7,Entidad vigilada,Créditos de consumo de bajo monto,CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),ANTIOQUIA,2,0
+1,7,Entidad vigilada,Cuenta de ahorro,VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CÓRDOBA,3,0
+1,7,Entidad vigilada,Creditos de consumo,ANTIOQUIA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),VALLE DEL CAUCA,1,0
+1,7,Entidad vigilada,Depósitos de bajo monto (Capítulo I del Título 15 del Decreto 2555 de 2010),CUNDINAMARCA,1,0
+1,7,Entidad vigilada,Cuenta de ahorro,ANTIOQUIA,2,0
+1,7,Entidad vigilada,Créditos de consumo de bajo monto,VALLE DEL CAUCA,1,0
+1,7,Defensor del consumidor financiero,Tarjetas de crédito,ANTIOQUIA,4,0
+1,59,Superintendencia Financiera de Colombia,Creditos de consumo,"BOGOTÁ, D.C.",46,0
+5,31,Entidad vigilada,Fondos de Inversión Colectiva (FIC),ANTIOQUIA,4,1
+13,33,Entidad vigilada,Seguro de automóviles,"BOGOTÁ, D.C.",1,0
+1,60,Entidad vigilada,Microcrédito,"BOGOTÁ, D.C.",11,0
+13,5,Entidad vigilada,Seguro de accidentes personales,"BOGOTÁ, D.C.",5,0
+13,29,Entidad vigilada,Otros productos de seguros,ANTIOQUIA,1,0
+13,6,Entidad vigilada,Seguro Obligatorio de Accidentes de Tránsito (SOAT),SANTANDER,3,0
+4,26,Superintendencia Financiera de Colombia,Tarjetas de crédito,TOLIMA,2,1
+14,23,Otra (remisión por competencia),Seguro de riesgos laborales,NORTE DE SANTANDER,1,0
+14,13,Entidad vigilada,Seguro de accidentes personales,CESAR,7,0
+5,42,Entidad vigilada,Fondos de Pensiones Voluntarias,"BOGOTÁ, D.C.",3,0
+127,5,Entidad vigilada,Planilla integrada de liquidación de aportes,"BOGOTÁ, D.C.",3,0
+14,26,Defensor del consumidor financiero,Seguro de vida individual,"BOGOTÁ, D.C.",5,0
+4,26,Defensor del consumidor financiero,Tarjetas de crédito,ANTIOQUIA,3,0
+14,4,Otra (remisión por competencia),Seguro de riesgos laborales,SUCRE,1,0
+22,5,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,CÓRDOBA,1,0
+13,27,Entidad vigilada,Seguro de hogar,"BOGOTÁ, D.C.",3,0
+4,122,Superintendencia Financiera de Colombia,Creditos de consumo,"BOGOTÁ, D.C.",14,0
+5,12,Otra (remisión por competencia),Fiducia de administración,ANTIOQUIA,1,0
+13,24,Superintendencia Financiera de Colombia,Seguro de responsabilidad civil,SANTANDER,1,0
+4,124,Entidad vigilada,Cuenta de ahorro,CESAR,1,1
+1,63,Superintendencia Financiera de Colombia,Tarjetas de crédito,NARIÑO,1,1
+13,41,Defensor del consumidor financiero,Seguro de hogar,NORTE DE SANTANDER,1,0
+5,42,Entidad vigilada,Fondos de Inversión Colectiva (FIC),ANTIOQUIA,2,0
+13,17,Entidad vigilada,Seguro de responsabilidad civil,RISARALDA,2,0
+1,13,Superintendencia Financiera de Colombia,Tarjetas de crédito,SANTANDER,1,0
+13,1,Entidad vigilada,Otros productos de seguros,CAUCA,2,0
+4,122,Superintendencia Financiera de Colombia,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+1,67,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,NORTE DE SANTANDER,1,0
+14,16,Entidad vigilada,Seguro de vida grupo,"BOGOTÁ, D.C.",2,0
+13,27,Entidad vigilada,Seguro de automóviles,SUCRE,1,0
+1,55,Superintendencia Financiera de Colombia,Cuenta de ahorro,CHOCÓ,1,1
+1,60,Superintendencia Financiera de Colombia,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",1,0
+1,53,Entidad vigilada,Microcrédito,VALLE DEL CAUCA,1,0
+14,17,Entidad vigilada,Otros productos de seguros,"BOGOTÁ, D.C.",2,0
+13,1,Entidad vigilada,Otros productos de seguros,NORTE DE SANTANDER,1,0
+5,38,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",1,1
+13,6,Superintendencia Financiera de Colombia,Seguro de automóviles,META,1,0
+13,27,Entidad vigilada,Seguro de sustracción,SANTANDER,1,0
+13,1,Entidad vigilada,Otros productos de seguros,CUNDINAMARCA,1,0
+5,59,Entidad vigilada,Otros productos de Fiduciarias,"BOGOTÁ, D.C.",1,0
+1,13,Superintendencia Financiera de Colombia,Creditos de consumo,"BOGOTÁ, D.C.",17,0
+5,12,Otra (remisión por competencia),Cesantías,CAUCA,1,0
+1,1,Superintendencia Financiera de Colombia,Creditos de consumo,"BOGOTÁ, D.C.",1,0
+13,33,Entidad vigilada,Seguro de hogar,RISARALDA,1,0
+13,29,Entidad vigilada,Seguro de automóviles,CÓRDOBA,1,0
+14,29,Defensor del consumidor financiero,Seguro de riesgos laborales,VALLE DEL CAUCA,1,0
+13,9,Superintendencia Financiera de Colombia,Seguro de cumplimiento,RISARALDA,1,0
+13,33,Superintendencia Financiera de Colombia,Seguro de automóviles,HUILA,1,0
+5,38,Entidad vigilada,Fiducia inmobiliaria,"BOGOTÁ, D.C.",1,0
+13,33,Entidad vigilada,Seguro de automóviles,VALLE DEL CAUCA,1,0
+14,11,Entidad vigilada,Seguro de salud,"BOGOTÁ, D.C.",42,0
+1,39,Entidad vigilada,Tarjetas de crédito,VALLE DEL CAUCA,5,0
+1,39,Entidad vigilada,Otros productos de Establecimientos de Crédito y SEDPE,VALLE DEL CAUCA,2,0
+1,23,Superintendencia Financiera de Colombia,Creditos de consumo,VALLE DEL CAUCA,1,0
+1,39,Defensor del consumidor financiero,Otros productos de Establecimientos de Crédito y SEDPE,"BOGOTÁ, D.C.",71,0
+1,39,Entidad vigilada,Cuenta de ahorro,CUNDINAMARCA,21,1
+22,8,Entidad vigilada,Créditos de vivienda,ANTIOQUIA,2,0
+14,11,Entidad vigilada,Seguro de salud,ANTIOQUIA,4,0
+1,63,Defensor del consumidor financiero,Tarjetas de crédito,"BOGOTÁ, D.C.",1,0

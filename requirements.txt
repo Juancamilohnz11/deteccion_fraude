@@ -1,0 +1,7 @@
+# Recommended Python Version: 3.9+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
